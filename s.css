@@ -1,0 +1,21 @@
+* {
+    font-family: Poppins;
+}
+.history {
+    margin-bottom: 50px;
+}
+.jumbotron {
+    background-color: #fada5e;
+}
+.footer {
+    padding: 20px 0px;
+    background-color: #fada5e;
+    margin-top: 50px;
+}
+p {
+    font-weight: 300;
+    font-size: 14px;
+}
+small {
+    font-weight: 300;
+}
